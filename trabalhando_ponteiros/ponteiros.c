@@ -5,7 +5,7 @@
 /*Trabalhando com ponteiros*/
 
 int main(){
-    /*Criação de um ponteiro di tipo "int"*/
+    /*Criação de um ponteiro do tipo "int"*/
     int *ponteiro;
 
     /*Criação de uma variável do tipo "int" que tem em seu conteúdo o valor "150"*/
